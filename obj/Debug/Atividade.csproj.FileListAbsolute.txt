@@ -1,0 +1,10 @@
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\bin\Debug\Labirinto.exe.config
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\bin\Debug\Labirinto.exe
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\obj\Debug\Atividade.csprojAssemblyReference.cache
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\obj\Debug\Atividade.frmAtividade.resources
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\obj\Debug\Labirinto.Properties.Resources.resources
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\obj\Debug\Atividade.csproj.GenerateResource.cache
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\obj\Debug\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\obj\Debug\Labirinto.exe
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\obj\Debug\Labirinto.pdb
+C:\Users\artur\Documents\SeleçãoAtosCapital\template-solution\Template Solution\bin\Debug\Labirinto.pdb
