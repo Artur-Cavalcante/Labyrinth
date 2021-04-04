@@ -1,6 +1,7 @@
-### TestAtosCapital
+### Labyrinth
 
-Teste prático TI 04/07/2020 – O desafio do labirinto
+O desafio do labirinto
+
 Será dada uma entrada em arquivo texto, onde na primeira linha contém as dimensões do labirinto
 (Linhas Colunas) e nas demais linhas o labirinto em si, em que:
 - 1 indica uma parede (isto é, não pode seguir neste ponto da matriz)
